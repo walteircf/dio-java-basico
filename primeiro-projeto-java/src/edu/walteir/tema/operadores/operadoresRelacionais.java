@@ -17,16 +17,17 @@ public class operadoresRelacionais {
         }
         if (a == b) {
             System.out.println("a é igual a b");
-        } else { 
-            System.out.println("a é diferente de b");
-        }
-            
-        
+        } 
+     
         if (a >= c) {
             System.out.println("a é maior ou igual a c");
         }
         if (a <= c) {
             System.out.println("a é menor ou igual a c");
+        }
+
+        if (a != b) {
+            System.out.println("a é diferente de b");
         }
         
         String nome1 = "Heloisa";
