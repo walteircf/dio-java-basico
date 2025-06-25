@@ -14,6 +14,8 @@ public class tiposDeVariaveis {
 
         // NUMERO = 10; não é possivel alterar a constante
         System.out.println(NUMERO);
+
+        String tokenSDK = "UUNhWU9RcDBzQWoxUjhHMDBHQXM=";
     }
 
     
