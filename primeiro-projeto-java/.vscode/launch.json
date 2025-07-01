@@ -1,0 +1,98 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.anatomia.MinhaClasse",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "Comentarios",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.javadoc.praticando.Comentarios",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "Usuario",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.metodos.praticando.Usuario",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "operadorAtribuicao",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.operadores.operadorAtribuicao",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "operadorTernario",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.operadores.operadorTernario",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "operadoresAritmeticos",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.operadores.operadoresAritmeticos",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "operadoresLogicos",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.operadores.operadoresLogicos",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "operadoresRelacionais",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.operadores.operadoresRelacionais",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "operadoresUnarios",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.operadores.operadoresUnarios",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.terminaleargumentos.AboutMe",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "MinhaClasse(1)",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.terminaleargumentos.MinhaClasse",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        },
+        {
+            "type": "java",
+            "name": "tiposDeVariaveis",
+            "request": "launch",
+            "mainClass": "edu.walteir.tema.variaveis.tiposDeVariaveis",
+            "projectName": "primeiro-projeto-java_da1fd7d5"
+        }
+    ]
+}
