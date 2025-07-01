@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"edu.walteir.tema.anatomia"},{"l":"edu.walteir.tema.escopo"},{"l":"edu.walteir.tema.javadoc.praticando"},{"l":"edu.walteir.tema.metodos"},{"l":"edu.walteir.tema.metodos.praticando"},{"l":"edu.walteir.tema.operadores"},{"l":"edu.walteir.tema.variaveis"}];updateSearchResults();

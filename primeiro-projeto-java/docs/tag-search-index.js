@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Calculador","h":"class edu.walteir.tema.javadoc.praticando.Calculadora","d":"Section","u":"edu/walteir/tema/javadoc/praticando/Calculadora.html#calculador-heading"}];updateSearchResults();
